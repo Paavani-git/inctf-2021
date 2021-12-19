@@ -36,6 +36,6 @@ we know that,
 ``py
 pt = long_to_bytes(pow(ct,d,n))
 ``
-![image](https://imgur.com/a/KRzQx3v)
+![image](img.png)
 ### flag = inctf{w7ap_tHe_Tr@p_trAp_tHe_Wrap}'
 
